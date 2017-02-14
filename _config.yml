@@ -1,7 +1,7 @@
-title: alvaradocde's personal page
+title: alvaradocde
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://alvaradocde.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -14,7 +14,7 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
+ - title: About me
    url: /about
  - title: Contact
    url: /contact
