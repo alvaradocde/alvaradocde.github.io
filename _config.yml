@@ -10,6 +10,7 @@ markdown: kramdown
 highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
+future: true
 
 navigation:
  - title: Home
@@ -20,9 +21,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: alvaradocde
+   twitter: alvaradocde
+   facebook: alvaradocde291
+   email: alvaradocde@gmail.com
 
 google_analytics: "UA-58263416-1"
