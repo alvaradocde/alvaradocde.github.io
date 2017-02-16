@@ -10,6 +10,8 @@ markdown: kramdown
 highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
+future: true
+safe:false
 
 navigation:
  - title: Home

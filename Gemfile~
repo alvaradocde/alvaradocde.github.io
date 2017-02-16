@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 gem "jekyll"
-gem "jekyll-paginate-v2"
+gem "jekyll-paginate"
 gem "susy"
 gem "normalize-scss"
 gem "compass"

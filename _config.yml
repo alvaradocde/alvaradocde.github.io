@@ -11,6 +11,13 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
 future: true
+safe: false
+
+# All Jekyll-Bootstrap specific configurations are namespaced into this hash
+#
+JB :
+  version : 0.2.13
+
 
 navigation:
  - title: Home
